@@ -128,6 +128,7 @@ Skills work across multiple platforms:
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills and slash-command workflows for AI coding agents.
 - [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI security review GitHub Action (Official).
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits security research and audit Skills.
+- [seqra/opentaint](https://github.com/seqra/opentaint/tree/main/skills) - OpenTaint AppSec skill pack. AI agents turn security-review findings into reusable taint rules and dependency summaries. Because the engine reuses these rules instead of repeating that expensive work, later scans become fast, deterministic, precise, and thorough.
 - [playwright-skill](https://github.com/lackeyjb/playwright-skill) - Playwright browser automation testing Skill.
 - [gh-code-review](https://github.com/bkircher/skills) - PR code review Skill for GitHub.
 - [skill-codex](https://github.com/skills-directory/skill-codex) - Delegate tasks to Codex Skill.
